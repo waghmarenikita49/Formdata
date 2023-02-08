@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "name": "James bond",
+      "spouse": "rahul",
+      "location": "pune",
+      "address": "India",
+      "pdf_url": "data.pdf",
+      "dateofbirth": "2022-09-08T19:01",
+      "image_url": "https://b.zmtcdn.com/data/pictures/9/18857339/8f53919f1175c08cf0f0371b73704f9b_o2_featured_v2.jpg?output-format=webp",
+      "id": 1
+    },
+    {
+      "name": "updated",
+      "spouse": "nr",
+      "location": "pune",
+      "address": "jhwhw",
+      "pdf_url": "/data.pdf",
+      "dateofbirth": "2022-04-07T19:03",
+      "image_url": "https://b.zmtcdn.com/data/pictures/9/18857339/8f53919f1175c08cf0f0371b73704f9b_o2_featured_v2.jpg?output-format=webp",
+      "id": 2
+    },
+    {
+      "name": "James",
+      "spouse": "kk",
+      "location": "jjkk",
+      "address": "gwufg",
+      "pdf_url": "data.pdf",
+      "dateofbirth": "2021-05-12T19:03",
+      "image_url": "https://b.zmtcdn.com/data/pictures/9/18857339/8f53919f1175c08cf0f0371b73704f9b_o2_featured_v2.jpg?output-format=webp",
+      "id": 3
+    },
+    {
+      "name": "nikita H",
+      "spouse": "npm",
+      "location": "nag",
+      "address": "nagpur",
+      "pdf_url": "data.pdf",
+      "dateofbirth": "2022-05-05T19:02",
+      "image_url": "https://b.zmtcdn.com/data/pictures/9/18857339/8f53919f1175c08cf0f0371b73704f9b_o2_featured_v2.jpg?output-format=webp",
+      "id": 4
+    }
+  ]
+}
